@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\Programacion Web"
+		},
+		{
+			"path": "..\\Primer practica"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Primer practica"
+	}
+}
+
