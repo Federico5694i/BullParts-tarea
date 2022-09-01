@@ -5,6 +5,14 @@ main > .container {
     size: 10px;
   }
 
+.footer{
+    font-size: 14px;
+    display: block;
+    line-height: 20px;
+    padding: 500;
+    color: #000;
+    
+}
 
 
 .Buscar{
